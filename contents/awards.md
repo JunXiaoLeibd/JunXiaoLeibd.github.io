@@ -1,9 +1,3 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- **AP Scholarship**, The Chinese University of Hong Kong (Shenzhen) (2022, 2020)  
+- **Dean's List**, The Chinese University of Hong Kong (Shenzhen) (2022, 2021, 2020)  
+- **Meritorious Award**, 2022 Mathematical Contest In Modeling  

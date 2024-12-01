@@ -1,0 +1,3 @@
+- **Programming**: Python, R, MATLAB, SPARK, STATA, MYSQL, Java  
+- **Software**: Gurobi, SPSS, Lingo, Microsoft Office  
+- **Languages**: Fluent in English, Native in Mandarin  
