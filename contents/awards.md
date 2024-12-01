@@ -1,3 +1,3 @@
-- **AP Scholarship**, The Chinese University of Hong Kong (Shenzhen) (2022, 2020)  
-- **Dean's List**, The Chinese University of Hong Kong (Shenzhen) (2022, 2021, 2020)  
-- **Meritorious Award**, 2022 Mathematical Contest In Modeling  
+- AP Scholarship, The Chinese University of Hong Kong (Shenzhen) (2022, 2020)  
+- Dean's List, The Chinese University of Hong Kong (Shenzhen) (2022, 2021, 2020)  
+- Meritorious Award, 2022 Mathematical Contest In Modeling  
