@@ -18,7 +18,7 @@ zl3384[at]cumc.columbia.edu
 
 
 
-### Projects
+<!-- ### Projects
 
 #### Maximin Effect Estimation with Blockwise Missing Data  
 *Main Contributor | Jun. 2024 - Present* | New York, USA  
@@ -37,6 +37,6 @@ zl3384[at]cumc.columbia.edu
 
 #### Effectiveness Analysis of COVID-19 Quarantine Measures  
 *Course Project | Oct. 2021 - Dec. 2021* | Shenzhen, China  
-##### Modeled COVID-19 propagation with enhanced SIR differential equations.  
+##### Modeled COVID-19 propagation with enhanced SIR differential equations.   -->
 
 
